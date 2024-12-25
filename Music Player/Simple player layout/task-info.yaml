@@ -73,12 +73,9 @@ files:
   - name: build.gradle
     visible: true
     learner_created: false
-  - name: src/main/java/org/hyperskill/musicplayer/MainPlayerControllerFragment.kt
-    visible: true
-    learner_created: true
-feedback_link: https://hyperskill.org/projects/289/stages/1506/implement#comment
+feedback_link: https://hyperskill.org/learn/step/22739#comment
 status: Failed
 feedback:
   message: View with id &quot;controllerTvCurrentTime&quot; was not found
   time: "Wed, 25 Dec 2024 11:46:56 UTC"
-record: -1
+record: 1

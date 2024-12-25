@@ -12,9 +12,6 @@ files:
   - name: src/main/res/drawable/ic_play.xml
     visible: true
     learner_created: false
-  - name: src/main/res/drawable/ic_launcher_foreground.xml
-    visible: true
-    learner_created: false
   - name: src/main/res/layout/activity_main.xml
     visible: true
     learner_created: false
@@ -38,27 +35,6 @@ files:
     visible: true
     learner_created: false
   - name: build.gradle
-    visible: true
-    learner_created: false
-  - name: src/main/java/org/hyperskill/musicplayer/MainApplication.kt
-    visible: true
-    learner_created: false
-  - name: src/test/java/org/hyperskill/musicplayer/Stage1UnitTestB.kt
-    visible: true
-    learner_created: false
-  - name: src/test/java/org/hyperskill/musicplayer/internals/SongFakeRepository.kt
-    visible: true
-    learner_created: false
-  - name: src/test/java/org/hyperskill/musicplayer/Stage4UnitTest.kt
-    visible: true
-    learner_created: false
-  - name: src/test/java/org/hyperskill/musicplayer/Stage2UnitTest.kt
-    visible: true
-    learner_created: false
-  - name: src/test/java/org/hyperskill/musicplayer/Stage3UnitTest.kt
-    visible: true
-    learner_created: false
-  - name: src/test/java/org/hyperskill/musicplayer/internals/CustomShadowCountDownTimer.kt
     visible: true
     learner_created: false
   - name: src/test/java/org/hyperskill/musicplayer/internals/AbstractUnitTest.kt
@@ -88,6 +64,12 @@ files:
   - name: src/test/java/org/hyperskill/musicplayer/internals/SongFake.kt
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/289/stages/1507/implement#comment
+  - name: src/main/res/drawable-v24/ic_launcher_foreground.xml
+    visible: true
+    learner_created: true
+  - name: src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/22740#comment
 status: Solved
 record: -1
